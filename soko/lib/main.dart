@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       themeMode: ThemeMode.system,
       theme: ThemeData(
         primarySwatch: Colors.blue,
-        // Define light theme colors and styles here
+        // Define light theme colors and styles here***
       ),
       darkTheme: ThemeData.dark(), // Define dark theme colors and styles here
       home: ProductsPage(), // Entry point to the Products page
